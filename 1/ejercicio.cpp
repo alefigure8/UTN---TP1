@@ -8,7 +8,7 @@ using namespace std;
 int main (void){
     int horas;
     float resultado, precio_hora;
-    cout << "Cantidad de Horas trabajadas: ";
+    cout << "\t\tCantidad de Horas trabajadas: ";
     cin >> horas;
     cout << "Precio por Hora Trabajada: ";
     cin >> precio_hora;
